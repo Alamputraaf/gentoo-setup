@@ -11,7 +11,7 @@ If you plan to use Desktop Environment like Gnome, and KDE, you must select prof
 
 For example you want to use KDE as your Desktop Environment from gentoo wiki:https://wiki.gentoo.org/wiki/Handbook:AMD64/Installation/Base
 
-#eselect profile list
+root#eselect profile list
 Available profile symlink targets:
 1.  [1]   default/linux/amd64/17.1 
 2.  [2]   default/linux/amd64/17.1/desktop
