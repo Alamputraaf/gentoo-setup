@@ -2,7 +2,7 @@
 Hello There 
 This is my Gentoo Setup Documentation created by Me
 
-After 6 times installing Gentoo, im really confident to use as daily driver on my Virtual Machines
+After 6 times installing Gentoo, im really confident to use as daily driver in my Virtual Machines
 This Documentation also credits to my inspiration @MentalOutlaw, @Denshi, and @LukeSmith.
 
 My setup for Minimalist Gentoo Installer Using DWM as Window Manager from suckless.org
